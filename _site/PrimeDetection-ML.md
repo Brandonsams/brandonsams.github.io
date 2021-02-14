@@ -2,7 +2,9 @@ layout: page
 title: "Detecting Prime Numbers with Machine Learning"
 permalink: /PrimeDetection/
 
-# Detcting Prime Numbers with Machine Learning
+# Detecting Prime Numbers with Machine Learning
+
+asdfadf
 
 ## Overview
 
