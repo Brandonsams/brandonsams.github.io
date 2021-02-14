@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Detecting Prime Numbers with Machine Learning"
-permalink: /PrimeDetection/
+permalink: /PrimeDetection-ML/
 ---
 
 # Detecting Prime Numbers with Machine Learning
