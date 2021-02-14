@@ -38,7 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Recent Projects
 
-[Prime Number Detection](https://brandonsams.github.io/PrimeDetection)
+[Prime Number Detection](https://brandonsams.github.io/PrimeDetection-ML)
 
 ### About Me
 
