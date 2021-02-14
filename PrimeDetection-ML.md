@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: "Detecting Prime Numbers with Machine Learning"
 permalink: /PrimeDetection-ML/
-theme: jekyll-theme-slate
 ---
 
 # Detecting Prime Numbers with Machine Learning
