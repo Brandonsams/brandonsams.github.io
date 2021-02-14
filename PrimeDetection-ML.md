@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Detecting Prime Numbers with Machine Learning"
 permalink: /PrimeDetection/
+---
 
 # Detecting Prime Numbers with Machine Learning
 
