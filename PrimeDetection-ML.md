@@ -50,7 +50,7 @@ With that in mind, I ended up using a sequential model, with 64, 128, 32 nodes p
 
 Regardless of most of how the hyperparameters were tuned, I found that the network quickly hit a ceiling as far as accuracy goes. That ceiling was at about 77% accuracy. However, there is something that I have a hard time explaining when it comes to model. After about 25 epochs the accuracy for both the validation and the testing dataset grew to about 84%.
 
-![Prime Detection Results]("./images/PrimeDetection-ML-Results.png")
+![Prime Detection Results](./images/PrimeDetection-ML-Results.png)
 
 Something happened that was statistically significant at about 20 epochs, that was very odd. It was almost like it had learned to test for another divisibility rule, and the accuracy just improved!  This, however, is definitely not what I expected to see. All the literature that I found seemed to indicate that Neural Networks have a tendency to learn slowly, over time. However, in this case, it seems that there is something that happens when running for many epochs at a time.
 
