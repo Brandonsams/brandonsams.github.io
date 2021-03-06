@@ -8,6 +8,8 @@ Brandon Sams
 
 [Face Mask Detection](https://brandonsams.github.io/FaceMaskDetection-ML)
 
+[EP Means Clustering of Flight Data](https://brandonsams.github.io/EPMeans-Flights)
+
 ## About Me
 
 [Clicky Clicky](https://brandonsams.github.io/about)
