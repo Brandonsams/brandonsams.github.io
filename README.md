@@ -40,6 +40,12 @@ Bluetooth sensors were used to track traffic as it flowed around Austin, TX. Thi
 
 First foray into using Tensorflow for natural language processing and interpretation. Comments were classified as being positive or negative, based on tfidf vectorizer function.
 
+### Crime in Portland, Oregon
+
+[CrimePDX](https://github.com/Brandonsams/CrimePDXvsUS)
+
+This project aimed to examine how crime rates in Portland, Oregon compare to the national crime rates. Data was examined over a 30 year period.
+
 ## About Me
 
 [Clicky Clicky](https://brandonsams.github.io/about)
