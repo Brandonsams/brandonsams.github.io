@@ -28,6 +28,12 @@ Implemented an algorithm that could cluster distributions of data, rather than b
 
 Data visualization project, where Tableau, Python, and R were used to visually illustrate how safe airline travel is, and how much safer it has been getting.
 
+### Bluetooth Travel Sensors in Austin, TX
+
+[Bluetooth Travel Sensors](https://github.com/Brandonsams/BluetoothTravelSensorsAustin)
+
+Bluetooth sensors were used to track traffic as it flowed around Austin, TX. This project dug into that dataset, and modeled traffic flow during different times of the day, and on different days of the week.
+
 ## About Me
 
 [Clicky Clicky](https://brandonsams.github.io/about)
