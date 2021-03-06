@@ -58,6 +58,12 @@ This was an open ended exploration into a dataset. Data was cleaned, sorted, and
 
 This analysis was an examination of the dog-owner culture in New York City. Attributes such as breed, pet name, size, and age were examined in this analysis to determine how dog-friendly the city truly is.
 
+### Command Line Weather API Tool
+
+[Command Line Weather API Tool](https://github.com/Brandonsams/WeatherAPI)
+
+A command line utility was written to make requests to the OpenWeatherMap API, and parse the JSON response it returned. This was an early project to get the hang of getting data from an API.
+
 ## About Me
 
 [Clicky Clicky](https://brandonsams.github.io/about)
