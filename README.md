@@ -52,6 +52,12 @@ This project aimed to examine how crime rates in Portland, Oregon compare to the
 
 This was an open ended exploration into a dataset. Data was cleaned, sorted, and visualized. Exploratory Data Analysis is the first step towards a larger project, and that was accomplished here.
 
+### Dog Ownership in NYC
+
+[Dog Ownership in NYC](https://github.com/Brandonsams/DogOwnershipNYC)
+
+This analysis was an examination of the dog-owner culture in New York City. Attributes such as breed, pet name, size, and age were examined in this analysis to determine how dog-friendly the city truly is.
+
 ## About Me
 
 [Clicky Clicky](https://brandonsams.github.io/about)
