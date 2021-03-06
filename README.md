@@ -46,6 +46,12 @@ First foray into using Tensorflow for natural language processing and interpreta
 
 This project aimed to examine how crime rates in Portland, Oregon compare to the national crime rates. Data was examined over a 30 year period.
 
+### Disney+ Streaming Exploratory Analysis
+
+[Disney+](https://github.com/Brandonsams/DisneyPlusStreamingEDA)
+
+This was an open ended exploration into a dataset. Data was cleaned, sorted, and visualized. Exploratory Data Analysis is the first step towards a larger project, and that was accomplished here.
+
 ## About Me
 
 [Clicky Clicky](https://brandonsams.github.io/about)
