@@ -14,7 +14,13 @@ Bachelor of Science in Mathematics with Minor in Communication from Boise State 
 
 ## Work
 
-I am a software developer out in Beaverton, Oregon. I recently got my Masters in Data Science from Bellevue University.
+I am a software developer at Traffic Technology Services in Beaverton, Oregon.
+
+https://www.traffictechservices.com/
+
+We provide traffic signal predictive analytics for vehicles as they drive about many cities across the United States and Canada. Requires an in depth understanding of IT, System Administration, Mathematics, and Traffic Engineering.
+
+On a day-to-day basis, I work in .NET, Python, SQL, and PowerShell. 
 
 ## Contact
 
