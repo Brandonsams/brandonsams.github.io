@@ -23,12 +23,11 @@ permalink: /digital-cv/
  - Worked with agencies to establish Traffic Signal Connectivity
  - Developed and implemented quality control metrics for traffic signal predictions
  - Windows Server System Administration using PowerShell
- - MySQL Database Administration
+ - MySQL Database Administration 
 
 ### Production Resources Developer
 
  - Developed software with team using version control (git)
- - Inferred traffic signal behavior for areas with limited infrastructure connectivity options
 
 ### Production Resources Data Scientist
 
