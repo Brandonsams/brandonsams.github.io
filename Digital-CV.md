@@ -8,40 +8,41 @@ permalink: /digital-cv/
 
 ## Education
 
-**Masters in Data Science** - Bellevue University (2021)
+**M.S. in Data Science** - Bellevue University (2021) - 3.80 GPA
 
-3.80 GPA
-
-**Bachelors in Mathematics with Communication Minor** - Boise State University (2017)
-
-3.59 GPA
+**B.S. in Mathematics with Communication Minor (Honors)** - Boise State University (2017) - 3.59 GPA
 
 **Valedictorian** - Mountain Home High School (2013)
-
----
 
 ## Work Experience
 
 **Traffic Technology Services**:  2018 - Present
 
-I began in Operations at TTS, but was promoted to Software Developer and eventually Data Scientist. We predict traffic signal behavior, and send the predictions to vehicles that are approaching those intersections.  This requires extensive knowledge of Windows Server Administration, Database Management, Advanced Traffic Management Systems and Traffic Controllers, and of course, Predictive Analytics.
+### Production Operations Specialist
 
----
+ - Worked with Agencies to Establish Traffic Signal Connectivity
+ - System Administration using Windows Server
+ - Developed and implemented quality control metrics for traffic signal predictions
+
+### Production Resources Developer
+
+ - Developed software with team using version control (git)
+ - Inferred traffic signal behavior from vehicle analytics
+
+### Production Resources Data Scientist
+
+ - Data Pipeline design
 
 ## Skills
 
----
-
 ## Portfolio
-
----
 
 ## Get in Touch
 
 Phone: (208)598-3793
 
-Email: brandonkeithsams@gmail.com
+Email: [brandonkeithsams@gmail.com](brandonkeithsams@gmail.com)
 
-LinkedIn: https://www.linkedin.com/in/brandon-sams-data-science/
+LinkedIn: [https://www.linkedin.com/in/brandon-sams-data-science/](https://www.linkedin.com/in/brandon-sams-data-science/)
 
 *References Available on Request*
