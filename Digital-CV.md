@@ -40,7 +40,7 @@ permalink: /digital-cv/
 
 ## Get in Touch
 
-Phone: (208)598-3793
+Phone: [(208)598-3793](tel:208-598-3793)
 
 Email: [brandonkeithsams@gmail.com](brandonkeithsams@gmail.com)
 
