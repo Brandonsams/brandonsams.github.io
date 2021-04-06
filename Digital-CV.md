@@ -18,20 +18,20 @@ permalink: /digital-cv/
 
 **Traffic Technology Services**:  2018 - Present
 
-### Production Operations Specialist
+### Production Resources Data Scientist (March 2021 - Present)
+
+ - Data Pipeline design
+
+### Production Resources Developer (September 2020 - March 2021)
+
+ - Developed software with team using version control (git)
+
+### Production Operations Specialist (August 2018 - September 2020)
 
  - Worked with agencies to establish Traffic Signal Connectivity
  - Developed and implemented quality control metrics for traffic signal predictions
  - Windows Server System Administration using PowerShell
  - MySQL Database Administration 
-
-### Production Resources Developer
-
- - Developed software with team using version control (git)
-
-### Production Resources Data Scientist
-
- - Data Pipeline design
 
 ## Skills
 
