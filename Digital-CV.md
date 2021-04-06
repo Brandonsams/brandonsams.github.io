@@ -37,6 +37,8 @@ permalink: /digital-cv/
 
 ## Portfolio
 
+[brandonsams.github.io](https://brandonsams.github.io/)
+
 ## Get in Touch
 
 Phone: [(208)598-3793](tel:208-598-3793)
