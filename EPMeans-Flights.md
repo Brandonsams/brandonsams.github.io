@@ -42,7 +42,7 @@ So the flight duration is a good continuous value that comes from the dataset, a
 
 Pictured below are four examples of flight duration distributions, for 4 different flight routes. While the first two distributions probably ought to be clustered together, the other two would not belong to the same cluster.
 
-!["Initial Distributions"](./whitepaperimages/InitialDistributions.png)
+![Initial Distributions](./images/EP-MeansFlights/InitialDistributions.png)
 
 
 ## Data Preparation
@@ -70,11 +70,11 @@ While I only really ended up using the ROUTE and ACTUAL_ELAPSED_TIME fields for 
 
 The analysis was run in a jupyter notebook, so I decided that this would be a good time to write a class for making probability distributions.
 
-![Probability Distribution Class](./whitepaperimages/ProbabilityDistributionClass.png)
+![Probability Distribution Class](./images/EP-MeansFlights/ProbabilityDistributionClass.png)
 
 Using this class, I could pass in the entire dataframe, along with a few more configuration details, and create a probability distribution. Notably, these probability distributions contain a Probability Density Function (think about histograms pictured earlier), and a Cumulative Distribution function. Here is an image of the difference between the two.
 
-![PDF vs. CDF](./whitepaperimages/PDFvsCDF.png)
+![PDF vs. CDF](./images/EP-MeansFlights/PDFvsCDF.png)
 
 The CDF measures the cumulative percent of the data points that are present, up to a given point, starting at the left.
 
@@ -88,19 +88,19 @@ In order to compute the average distribution for a collection of distributions, 
 
 Given these two techniques, KMeans Clustering can be completed. Choose some disributions to serve as cluster centers, and get going. Cluster the data around the centers, and recompute the centers based on the new groupings. Repeat until no items change clusters.
 
-![KMeans Clustering](./whitepaperimages/KMeansFlowchart.jpg)
+![KMeans Clustering](./images/EP-MeansFlights/KMeansFlowchart.jpg)
 
 ## Results
 
 The dataset contained just over 2000 routes, each of which has a probability distribution that describes the flight duration. EP-Means requires that the number of clusters be decided prior to clustering. But as an example, here are the resulting clusters for K=5.
 
-![PDF, K=5](./whitepaperimages/PDF_cluster.jpg)
+![PDF, K=5](./images/EP-MeansFlights/PDF_cluster.jpg)
 
 Of course, any value of K>1 would do, but K=5 appears to be a pretty good value for this specifc set of distributions. For larger values of k, the rightmost cluster would have very few values included.
 
 The chart below shows the total Earth Mover's Distance, across all clusters, for various values of K. 
 
-![Elbow Point](./whitepaperimages/EMDvsK.jpg)
+![Elbow Point](./images/EP-MeansFlights/EMDvsK.jpg)
 
 ## Conclusion
 
