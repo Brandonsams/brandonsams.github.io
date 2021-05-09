@@ -86,7 +86,7 @@ To accomplish this first task, we can compute the Earth Mover's Distance (EMD), 
 
 In order to compute the average distribution for a collection of distributions, this involves averaging all the PDFs together. This is straightforward for this dataset, as the flight duration is always in minutes, with no partial values. So the average value at m minutes is the average of the other distributions' values at m minutes. Repeat this for all values, and an average distribution is created.
 
-Given these two techniques, KMeans Clustering can be completed. Choose some disributions to serve as cluster centers, and get going. Cluster the data around the centers, and recompute the centers based on the new groupings. Repeat until no items change clusters.
+Given these two techniques, KMeans Clustering can be completed. Choose some distributions to serve as cluster centers, and get going. Cluster the data around the centers, and recompute the centers based on the new groupings. Repeat until no items change clusters.
 
 ![KMeans Clustering](./images/EP-MeansFlights/KMeansFlowchart.jpg)
 
