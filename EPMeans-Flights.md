@@ -94,7 +94,7 @@ Given these two techniques, KMeans Clustering can be completed. Choose some dist
 
 The dataset contained just over 2000 routes, each of which has a probability distribution that describes the flight duration. EP-Means requires that the number of clusters be decided prior to clustering. But as an example, here are the resulting clusters for K=5.
 
-![PDF, K=5](./images/EP-MeansFlights/PDF_cluster.jpg)
+![PDF K=5](./images/EP-MeansFlights/PDF_cluster.jpg)
 
 Of course, any value of K>1 would do, but K=5 appears to be a pretty good value for this specifc set of distributions. For larger values of k, the rightmost cluster would have very few values included.
 
